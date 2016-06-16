@@ -29,9 +29,4 @@ public class MainActivity extends AppCompatActivity {
 
         cylinderImageView.resume();
     }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-    }
 }

@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/CylinderApplication.iml" filepath="$PROJECT_DIR$/CylinderApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/CylinderImageView.iml" filepath="$PROJECT_DIR$/CylinderImageView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
